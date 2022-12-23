@@ -1,0 +1,11 @@
+* {
+  background-color: rgb(144, 89, 69);
+}
+
+.header h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 80vh;
+}
